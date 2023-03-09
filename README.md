@@ -5,11 +5,7 @@ Investigating the mycobiomes of onion under biotic stress through metabarcoding
 
 ## Abstract
 
-Welsh onion (Allium fistulosum L.) constitutes an important plant species cultivated in Taiwan due the benefits and applications in different areas. Stemphylium vesicarium causes a fungal disease called Stemphylium leaf blight disease (SLB) or stalk rot in Welsh onions. This project constitutes a preliminary metabarcoding based mycobiota study conducted to decipher any difference in the endophytic fungal communities associated with healthy and diseased SLB Welsh onion plants. Metabarcoding sequences for the study were provided by the National Taiwan University, Taiwan. We used high-throughput sequencing analysis to determine the diversity and abundances of microbes associated roots and leaves in Welsh onion under disease and healthy conditions. Sequence data of four samples; 
-- leaves (HL) and roots (HR) of healthy onion plants
--  leaves (DL) and roots (DR) of diseased (suffering from (Stemphylium leaf blight disease) onion plants 
-
-were received for the preliminary investigation The sequence data was analyzed using the 
+Welsh onion (Allium fistulosum L.) constitutes an important plant species cultivated in Taiwan due the benefits and applications in different areas. Stemphylium vesicarium causes a fungal disease called Stemphylium leaf blight disease (SLB) or stalk rot in Welsh onions. This project constitutes a preliminary metabarcoding based mycobiota study conducted to decipher any difference in the endophytic fungal communities associated with healthy and diseased SLB Welsh onion plants. Metabarcoding sequences for the study were provided by the National Taiwan University, Taiwan. We used high-throughput sequencing analysis to determine the diversity and abundances of microbes associated roots and leaves in Welsh onion under disease and healthy conditions. Sequence data of four samples, leaves (HL) and roots (HR) of healthy onion plants, leaves (DL) and roots (DR) of diseased (suffering from Stemphylium leaf blight disease) onion plants were received for the preliminary investigation The sequence data was analyzed using, 
 - QIIME 2 (Quantitative insights Into Microbial Ecology) pipeline
  
 - R language 
@@ -31,22 +27,18 @@ The disease is Stemphylium leaf blight disease of Welsh onion. Paired end, demul
 
 On 26th of October 2021 Welsh onion samples were collected from one field located in Saxing, Taiwan.Paired-end libraries (2 × 300 bp) were prepared using ITS domain I of fungal rRNA and sequenced using High Sec2500 Illumina platform (Illumina, San Diego, CA, USA). Fungal barcoded amplicon DNA sample were sent to Tri-I Biotech (New Taipei City, Taiwan)
 
-There are several steps as,
 
-1. Installing QIIME 2
-2. Data preprocessing
-3. Taxonomy assignment and taxonomy analysis
-4. Phylogenetic tree building
-5. Diversity analysis
-6. Statistical analysis
+## Mycobiome analysis
 
-### subtitle
-
-fxfxf
-- htyh
-
-
-1. ujyu
+There are several steps in mycobiome analysis like,
+- Mycobiome analysis using [QIIME 2](qiime2/README.md)
+     -  Installing QIIME 2
+     - Data preprocessing
+     - Taxonomy assignment and taxonomy analysis
+     - Phylogenetic tree building
+     - Diversity analysis
+- Statistical analysis of mycobiome data using [R](stat_analysis_R/README.md)
+     - Statistical analysis
 
 ```
 fdfdgfdd
