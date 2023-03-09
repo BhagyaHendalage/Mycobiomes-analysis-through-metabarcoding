@@ -37,5 +37,6 @@ There are several steps in mycobiome analysis like,
      - Taxonomy assignment and taxonomy analysis
      - Phylogenetic tree building
      - Diversity analysis
+  
 - Statistical analysis of mycobiome data using [R](stat_analysis_R/README.md)
      - Statistical analysis
