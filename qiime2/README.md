@@ -7,6 +7,7 @@ In order to analyze fungal composition, the QIIME 2 (Quantitative insights Into 
 The [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  quality assessment tool was installed and the forward and reverse read files of all four samples were subjected to the quality assessment using FASTQC as an initial step.
 
 ### Creating and checking the validity of metadata file 
+
 In the context of a microbiome study, sample metadata are any data that describe characteristics of the samples that are being studied. In QIIME 2, metadata were created and stored as a TSV (tab-separated values) file with .tsv or .txt file extension. QIIME 2 metadata files detailed formatting [requirements](https://docs.qiime2.org/2022.2/tutorials/metadata/)  was considered. 
 
 According to the QIIME2 recommendation, sample metadata file which use to go through the pipeline, was needed to validate. Sample metadata files stored in Google Sheets was validated using [Keemei](https://keemei.qiime2.org/)  using select Add-ons > Keemei > Validate QIIME 2 metadata file (Rideout et al., 2016).
