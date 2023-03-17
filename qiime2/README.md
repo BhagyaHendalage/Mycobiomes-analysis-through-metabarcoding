@@ -1,6 +1,6 @@
 # Mycobiome analysis using QIIME 2 pipeline
 ## Installing QIIME 2
-In order to analyze fungal composition, the QIIME 2 (Quantitative insights Into Microbial Ecology)(Bolyen, Rideout, Matthew R. Dillon, et al., 2019) pipeline  is used. For that, the machine compatible VirtualBox (VB) version (VirtualBox-6.1.34) was installed. Next, 64-bit QIIME Virtual Box software (2022.2 release) was installed via [VirtualBox](https://data.qiime2.org/distro/core/2022.2) into the machine.
+In order to analyze fungal composition, the QIIME 2 (Quantitative insights Into Microbial Ecology)(Bolyen, Rideout, Matthew R. Dillon, et al., 2019) pipeline  is used. For that, the machine compatible VirtualBox (VB) version (VirtualBox-6.1.34) was installed. Next, 64-bit QIIME Virtual Box software (2022.2 release) was installed via [VirtualBox-Ubuntu](https://data.qiime2.org/distro/core/2022.2) into the machine.
 ## Data preprocessing
 ### Obtaining and quality assessment of sequence data
 

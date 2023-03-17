@@ -27,6 +27,11 @@ The disease is Stemphylium leaf blight disease of Welsh onion. Paired end, demul
 
 On 26th of October 2021 Welsh onion samples were collected from one field located in Saxing, Taiwan.Paired-end libraries (2 × 300 bp) were prepared using ITS domain I of fungal rRNA and sequenced using High Sec2500 Illumina platform (Illumina, San Diego, CA, USA). Fungal barcoded amplicon DNA sample were sent to Tri-I Biotech (New Taipei City, Taiwan)
 
+---
+The dataset is not publicly available due to privacy concerns
+
+----
+
 
 ## Mycobiome analysis
 
@@ -40,3 +45,4 @@ There are several steps in mycobiome analysis like,
   
 - Statistical analysis of mycobiome data using [R](stat_analysis_R/README.md)
      - Statistical analysis
+
